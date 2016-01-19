@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "lustreweb"
+    },
+    "lustreweb": {
+      "applicationId": "Zsz52TkrclePX05U6QF1leB1npSVzr4kmLEKNf5c"
+    }
+  }
+}
